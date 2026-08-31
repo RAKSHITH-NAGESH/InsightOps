@@ -113,25 +113,24 @@ Google Cloud Run
 ## Dashboard
 
 ![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c65a98460dd6ea94697165fd032892c51ca06111/images/dashboard.png.png)
-Dashboard
 
 ## Segment Analysis
 
-![Segment Analysis](images/segment-analysis.png)
+![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c80caef528ab4398a5848dd5d4eecb9326319ac2/images/segment-analysis.png.png)
 
 ## Product Analysis
 
-![Product Analysis](images/product-analysis.png)
+![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c80caef528ab4398a5848dd5d4eecb9326319ac2/images/product-analysis.png.png)
 
 ## Discount Analysis
 
-![Discount Analysis](images/discount-analysis.png)
+![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c80caef528ab4398a5848dd5d4eecb9326319ac2/images/discount-analysis.png.png)
 
 ## Anomaly Detection
 
-![Anomaly Detection](images/anomaly-detection.png)
+![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c80caef528ab4398a5848dd5d4eecb9326319ac2/images/anomaly-detection.png.png)
 
 ## Correlation Analysis
 
-![Correlation Analysis](images/correlation-analysis.png)
->>>>>>> 271e1b4 (Fix README image rendering)
+![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c80caef528ab4398a5848dd5d4eecb9326319ac2/images/correlation-analysis.png.png)
+
