@@ -105,8 +105,7 @@ ReportLab
 Pytest
 Docker
 Google Cloud Run
-<<<<<<< HEAD
-=======
+
 
 
 # 📸 Application Screenshots
