@@ -107,39 +107,4 @@ Docker
 Google Cloud Run
 
 
-📁 Project Structure
 
-InsightOps/
-│
-├── agent/
-│   ├── __init__.py
-│   ├── agent.py
-│   └── tools.py
-│
-├── analysis/
-│   ├── __init__.py
-│   ├── data_profiler.py
-│   ├── statistics.py
-│   ├── anomaly.py
-│   ├── visualization.py
-│   └── report.py
-│
-├── data/
-│   └── sample.csv
-│
-├── charts/
-│   └── .gitkeep
-│
-├── reports/
-│   └── .gitkeep
-│
-├── tests/
-│   ├── __init__.py
-│   └── test_analysis.py
-│
-├── .env.example
-├── .gitignore
-├── app.py
-├── Dockerfile
-├── README.md
-└── requirements.txt
