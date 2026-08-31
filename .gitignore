@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# ADK local files
+.adk/
+**/.adk/
+
+# Streamlit secrets
+.streamlit/
+**/.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep empty folders in Git
+!reports/.gitkeep
+!charts/.gitkeep
