@@ -137,7 +137,6 @@ InsightOps/
 │   ├── __init__.py
 │   └── test_analysis.py
 │
-├── .env
 ├── .env.example
 ├── .gitignore
 ├── app.py
