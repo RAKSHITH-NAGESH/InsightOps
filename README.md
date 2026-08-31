@@ -112,7 +112,8 @@ Google Cloud Run
 
 ## Dashboard
 
-![InsightOps Dashboard](images/dashboard.png)
+![image alt](https://github.com/RAKSHITH-NAGESH/InsightOps/blob/c65a98460dd6ea94697165fd032892c51ca06111/images/dashboard.png.png)
+Dashboard
 
 ## Segment Analysis
 
