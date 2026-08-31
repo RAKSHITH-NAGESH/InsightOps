@@ -105,3 +105,33 @@ ReportLab
 Pytest
 Docker
 Google Cloud Run
+<<<<<<< HEAD
+=======
+
+
+# 📸 Application Screenshots
+
+## Dashboard
+
+![InsightOps Dashboard](images/dashboard.png)
+
+## Segment Analysis
+
+![Segment Analysis](images/segment-analysis.png)
+
+## Product Analysis
+
+![Product Analysis](images/product-analysis.png)
+
+## Discount Analysis
+
+![Discount Analysis](images/discount-analysis.png)
+
+## Anomaly Detection
+
+![Anomaly Detection](images/anomaly-detection.png)
+
+## Correlation Analysis
+
+![Correlation Analysis](images/correlation-analysis.png)
+>>>>>>> 271e1b4 (Fix README image rendering)
